@@ -14,11 +14,9 @@ website:
     right:
       - href: about.qmd
       - href: blog.qmd   
-      - text: Resources #change html index.pt to Recursos"
-        menu:
-          - href: resources.qmd
-          - href: literature-tools.qmd        
-          - href: other-resources.qmd                   
+      - href: testimonies.qmd  
+      - href: contact.qmd        
+                 
    
   page-footer:
     background: black
@@ -38,8 +36,8 @@ website:
 
 format:
   html:
-    theme: lux
-    css: marifer_theme.css
+    theme: quartz
+  # css: marifer_theme.css
     toc: true
     code-overflow: scroll
 babelquarto:

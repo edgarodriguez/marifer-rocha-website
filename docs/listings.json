@@ -13,6 +13,10 @@
     ]
   },
   {
+    "listing": "/testimonies.html",
+    "items": []
+  },
+  {
     "listing": "/publications.html",
     "items": [
       "/publications/2024-07-20_theorical-framework/index.html"
