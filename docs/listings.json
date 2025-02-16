@@ -6,15 +6,11 @@
     ]
   },
   {
-    "listing": "/other-resources.html",
+    "listing": "/posts.html",
     "items": [
-      "/other-resources/SmartLab.html",
-      "/other-resources/climate-conflict.html"
+      "/posts/2024-01-29_enslaved_ethanol/index.html",
+      "/posts/2024-01-29_enslaved_ethanol/index.es.html"
     ]
-  },
-  {
-    "listing": "/testimonies.html",
-    "items": []
   },
   {
     "listing": "/publications.html",
@@ -23,11 +19,8 @@
     ]
   },
   {
-    "listing": "/posts.html",
-    "items": [
-      "/posts/2024-01-29_enslaved_ethanol/index.html",
-      "/posts/2024-01-29_enslaved_ethanol/index.es.html"
-    ]
+    "listing": "/testimonies.html",
+    "items": []
   },
   {
     "listing": "/resources.html",
