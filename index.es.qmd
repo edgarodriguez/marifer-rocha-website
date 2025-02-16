@@ -2,7 +2,7 @@
 title: "Marifer Rocha Arrangoiz, PhD"
 about:
   template: jolla
-  image: profile.jpg
+  image: TBD.jpg
   links:
     - icon: twitter
       text: twitter
