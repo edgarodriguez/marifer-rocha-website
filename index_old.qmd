@@ -1,19 +1,16 @@
 ---
-title: "Marifer Rocha Arrangoiz, PhD"
-about:
-  template: jolla
-  image: profile.jpg
-  links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
-    - icon: instagram
-      text: instagram
-      href: https://github.com
+title: ""
+subtitle: ""
+lang: en
+draft: false
+image: "./content/img/Ecosystem.jpg"
 toc: false
 lightbox: false
-title-block-banner: false
-lang: es
+cookie-consent: true
+open-graph: true
+execute:
+  echo: false
+comments: false
 ---
 
 ```{r}
@@ -26,16 +23,35 @@ lang: es
 library(fontawesome)
 ```
 
-:::{.column-body-outset}
-
-## About me
-
-## Experience
-
-## Education
+::: {.column-screen}
+:::
 
 
-#### Share this post on social media:
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+# Testing
+
+
+
+## What are our aims?
+
+## Organizations
+
+:::{#logo-organizations layout-ncol=5}
+
+:::
+
+## Acknowledgement
+
+This project is funded by [the British Academy’s](https://www.thebritishacademy.ac.uk) ODA Challenge-Oriented Research Grants 2024 Programme (IOCRG100945), supported under the UK Government’s International Science Partnerships Fund.
+
+#### Share it on social media:
+
 ```{=html}
 <!-- AddToAny BEGIN -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
@@ -54,5 +70,3 @@ library(fontawesome)
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <!-- AddToAny END -->
 ```
-
-:::

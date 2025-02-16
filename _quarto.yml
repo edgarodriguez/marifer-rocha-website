@@ -55,15 +55,4 @@ description-es: Marifer Rocha Arrangoiz
 author-es: Marifer Rocha Arrangoiz
 lang: en
 
-# Override language specific fields here
-babelquarto-es:
-  format:
-    html:
-      comments:
-        giscus:
-          language: es
-  website:
-    navbar:
-      right:
-        - href: talks.qmd
-          text: Platicas
+
