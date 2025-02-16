@@ -3,7 +3,7 @@ project:
   output-dir: docs
 website:
 # favicon: "content/img/clidewo-favicon.png"
-#  site-url: https://clidewo.com
+  site-url: https://github.com/edgarodriguez/marifer-rocha-website
   repo-url: https://github.com/edgarodriguez/marifer-rocha-website
   open-graph: true
   draft-mode: visible
