@@ -1,0 +1,35 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/2024-01-29_enslaved_ethanol/index.html",
+      "/posts/2024-99-99_what-is-CRVA-scrollytelling/index.html"
+    ]
+  },
+  {
+    "listing": "/other-resources.html",
+    "items": [
+      "/other-resources/SmartLab.html",
+      "/other-resources/climate-conflict.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/2024-07-20_theorical-framework/index.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/2024-01-29_enslaved_ethanol/index.html",
+      "/posts/2024-01-29_enslaved_ethanol/index.pt.html",
+      "/posts/2024-99-99_what-is-CRVA-scrollytelling/index.html",
+      "/posts/2024-99-99_what-is-CRVA-scrollytelling/index.pt.html"
+    ]
+  },
+  {
+    "listing": "/resources.html",
+    "items": []
+  }
+]
