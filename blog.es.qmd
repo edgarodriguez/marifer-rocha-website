@@ -1,11 +1,11 @@
 ---
-title: "Blogue"
-description: "Comentários, notas, insights e informações relacionadas aos objetivos do projeto"
-lang: pt
+title: "Blog"
+description: "Descripción sobre el blog (intereses, temas, etc.)"
+lang: es
 listing:
   contents: posts
   include:
-    lang: pt
+    lang: es
   sort: "date desc"
   type: default
   categories: true

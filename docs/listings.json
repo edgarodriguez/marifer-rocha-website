@@ -13,14 +13,15 @@
     ]
   },
   {
-    "listing": "/publications.html",
-    "items": [
-      "/publications/2024-07-20_theorical-framework/index.html"
-    ]
-  },
-  {
     "listing": "/testimonies.html",
-    "items": []
+    "items": [
+      "/testimonies/2024-99-99_climate-hazard-06-agrochemicals/index.html",
+      "/testimonies/2024-12-31_climate-hazard-01-heat/index.html",
+      "/testimonies/2024-99-99_climate-hazard-05-vector-disease/index.html",
+      "/testimonies/2024-99-99_climate-hazard-04-air-pollution/index.html",
+      "/testimonies/2024-99-99_climate-hazard-02-radiation/index.html",
+      "/testimonies/2024-99-99_climate-hazard-03-extreme-weather/index.html"
+    ]
   },
   {
     "listing": "/resources.html",

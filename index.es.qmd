@@ -13,7 +13,7 @@ about:
 toc: false
 lightbox: false
 title-block-banner: false
-lang: en
+lang: es
 ---
 
 ```{r}
