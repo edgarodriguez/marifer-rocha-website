@@ -37,7 +37,7 @@ website:
 format:
   html:
     theme: quartz
-   # css: marifer_theme.css
+    css: marifer_theme.css
     toc: true
     code-overflow: scroll
 babelquarto:
