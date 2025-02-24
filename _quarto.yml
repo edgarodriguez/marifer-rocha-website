@@ -36,8 +36,8 @@ website:
 
 format:
   html:
-    theme: quartz
-    css: marifer_theme.css
+    theme: yeti
+  #  css: marifer_theme.css
     toc: true
     code-overflow: scroll
 babelquarto:
