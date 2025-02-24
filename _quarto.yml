@@ -42,13 +42,14 @@ format:
     code-overflow: scroll
 
 babelquarto:
+  icon: "bi bi-backpack"
   languagecodes:
   - name: es
     text: "Español"
   - name: en
     text: "English"
   mainlanguage: 'en'
-  languages: ['en','es']
+  languages: ['es']
 title-es: Marifer Rocha Arragoinz, PhD
 description-es: Marifer Rocha
 author-es: Marifer Rocha Arrangoiz

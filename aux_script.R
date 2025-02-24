@@ -13,6 +13,10 @@ base::library(distilltools)
 library(babelquarto)
 library(servr)
 
+
+###
+register_further_languages("es", project_path = ".")
+
 ### Aux code
 quarto_version()
 babelquarto::render_website()

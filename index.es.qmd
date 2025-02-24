@@ -29,7 +29,7 @@ library(fontawesome)
 :::{.column-body-outset}
 
 ## Acerca de mi
-
+Español
 ## Experiencia profesional
 
 ## Educación
