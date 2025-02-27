@@ -1,7 +1,7 @@
 ---
 title: "Testimonios"
 description: "Aqui una descripción (opcional)"
-lang: pt
+lang: es
 listing:
   contents: testimonies
   feed: true

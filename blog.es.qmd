@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-description: "Descripción sobre el blog (intereses, temas, etc.)"
+description: "Commentarios, notes, insights, and information related to the project's goals"
 lang: es
 listing:
   contents: posts
@@ -9,5 +9,16 @@ listing:
   sort: "date desc"
   type: default
   categories: true
+  page-size: 9
+  fields: [image, author, title, description, date, reading-time]  
 comments: false
+page-layout: full
+format: 
+  html:
+    #include-after-body: _footer.html 
+    grid:
+      sidebar-width: 250px
+      body-width: 1000px
+      margin-width: 200px
+
 ---
