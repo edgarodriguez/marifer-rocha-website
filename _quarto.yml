@@ -1,8 +1,8 @@
 project:
   type: website
-
+  output-dir: docs
 website:
-  title: "Joel Nitta"
+  title: "Joel Nitta (testing nrew website multilengual)"
   navbar:
     background: primary
     right:
