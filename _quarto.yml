@@ -3,6 +3,11 @@ project:
   output-dir: docs
 website:
   title: "Joel Nitta (testing nrew website multilengual)"
+  site-url: https://edgarodriguez.github.io/marifer-rocha-website/
+  repo-url: https://github.com/edgarodriguez/marifer-rocha-website
+  
+  
+  
   navbar:
     background: primary
     right:
