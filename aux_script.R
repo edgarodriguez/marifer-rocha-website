@@ -13,6 +13,7 @@ base::library(distilltools)
 library(babelquarto)
 library(servr)
 
+install.packages("babelquarto")
 
 ###
 register_further_languages("es", project_path = ".")

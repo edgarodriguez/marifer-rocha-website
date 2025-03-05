@@ -2,44 +2,28 @@ project:
   type: website
   output-dir: docs
 website:
-# favicon: "content/img/clidewo-favicon.png"
+  title: "Dr. Marifer Rocha Arrangoiz"
   site-url: https://github.com/edgarodriguez/marifer-rocha-website
   repo-url: https://github.com/edgarodriguez/marifer-rocha-website
   open-graph: true
-  draft-mode: visible
   navbar:
-    pinned: true
-#   logo: "content/img/logo_yellow3.png"
     background: primary
-    left:
-      - href: about.qmd
-      - href: blog.qmd   
-      - href: testimonies.qmd  
-      - href: contact.qmd        
-                 
+    right:
 
-  page-footer:
-    background: black
-    left: © Copyright 2025 CC-BY-NC, website design, Edgar Rodríguez-Huerta
-    right: Multi-lenguage thanks to [babelquarto](https://docs.ropensci.org/babelquarto/index.html) and [Joel Nitta Website](https://www.joelnitta.com)
-#  google-analytics: "G-RG1R3XP26Q"
-#  cookie-consent:
-#    type: express
-#    style: headline
-#    palette: dark
-  announcement:
-    icon: info-circle
-    dismissable: true
-    content: "Some message that you want to highlight (optional)"
-    type: success
-    position: below-navbar
+      - href: blog.qmd
+      - href: talks.qmd
+      - href: teaching.qmd
+      - href: content/pdf/Nitta_CV.pdf
+        text: "CV"
 
 format:
   html:
-    theme: yeti
-  #  css: marifer_theme.css
+    theme:
+      light: flatly
+      dark: darkly
+    css: jnitta_theme.css
     toc: true
-    code-overflow: scroll
+
 babelquarto:
   languagecodes:
   - name: es
@@ -48,8 +32,20 @@ babelquarto:
     text: "English"
   mainlanguage: 'en'
   languages: ['es']
-title-es: Marifer Rocha Arragoinz PhD
-description-es: Marifer Rocha
+title-es: Dr. Marifer Rocha Arranogoiz
+description-es: Personal website
 author-es: Marifer Rocha Arrangoiz
 lang: en
 
+# Override language specific fields here
+babelquarto-es:
+  format:
+    html:
+      comments:
+        giscus:
+          language: es
+  website:
+    navbar:
+      right:
+        - href: talks.qmd
+          text: Charlas
