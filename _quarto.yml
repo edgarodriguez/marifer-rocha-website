@@ -1,15 +1,13 @@
 project:
   type: website
-  output-dir: docs
+
 website:
-  title: "Dr. Marifer Rocha Arrangoiz"
-  site-url: https://github.com/edgarodriguez/marifer-rocha-website
-  repo-url: https://github.com/edgarodriguez/marifer-rocha-website
-  open-graph: true
+  title: "Joel Nitta"
   navbar:
     background: primary
     right:
-
+      - href: publications.qmd
+      - href: software.qmd
       - href: blog.qmd
       - href: talks.qmd
       - href: teaching.qmd
@@ -23,29 +21,46 @@ format:
       dark: darkly
     css: jnitta_theme.css
     toc: true
+    comments:
+      giscus:
+        repo: joelnitta/joelnitta-home
+        repo-id: R_kgDOGZGr3w
+        category: Comments
+        category-id: DIC_kwDOGZGr384B_-52
+        mapping: pathname
+        input-position: top
+        theme: light
+        language: en
+        reactions-enabled: false
+    include-in-header: header.html
 
 babelquarto:
   languagecodes:
   - name: es
-    text: "Español"
+    text: "Version in es"
+  - name: ja
+    text: "日本語"
   - name: en
     text: "English"
   mainlanguage: 'en'
-  languages: ['es']
-title-es: Dr. Marifer Rocha Arranogoiz
-description-es: Personal website
-author-es: Marifer Rocha Arrangoiz
+  languages: ['ja', 'es']
+title-es: title in es
+description-es: description in es
+author-es: author in es
+title-ja: ニッタ ジョエル
+description-ja: ニッタ ジョエルのウエブサイト
+author-ja: ニッタ ジョエル
 lang: en
 
 # Override language specific fields here
-babelquarto-es:
+babelquarto-ja:
   format:
     html:
       comments:
         giscus:
-          language: es
+          language: ja
   website:
     navbar:
       right:
         - href: talks.qmd
-          text: Charlas
+          text: 発表

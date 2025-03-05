@@ -1,9 +1,9 @@
 ---
-title: Marifer Rocha Arrangoiz
+title: Joel Nitta (THIS IS AN EXAMPLE)
 lang: en
 about:
   template: trestles
- # image: "content/images/joel.png"
+  image: "content/images/joel.png"
   image-width: "200px;"
   links:
     - icon: mastodon

@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "No hay resultados"
-  },
-  {
     "objectID": "talks/2020-07-27_botany.ja.html",
     "href": "talks/2020-07-27_botany.ja.html",
     "title": "Exploring Dimensions of Biodiversity in Japanese Ferns (Botany 2020 口頭発表)",
@@ -483,27 +476,6 @@
     "text": "Reproducibility\n\n\nSource code\nrenv lockfile"
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "ウエブサイト\nシラバス"
-  },
-  {
-    "objectID": "teaching.html#大学院",
-    "href": "teaching.html#大学院",
-    "title": "Teaching",
-    "section": "",
-    "text": "ウエブサイト\nシラバス"
-  },
-  {
-    "objectID": "teaching.html#学部",
-    "href": "teaching.html#学部",
-    "title": "Teaching",
-    "section": "学部",
-    "text": "学部\n\n生物多様性と日本*\n\nウエブサイト\nシラバス\n\n\n\n再現可能なデータ解析*\n\nウエブサイト\nシラバス\n\n\n\n情報処理演習\n\nシラバス\n\n* 英語で行う授業"
-  },
-  {
     "objectID": "posts/2021-06-02_color-scheme-anc-states/index.html",
     "href": "posts/2021-06-02_color-scheme-anc-states/index.html",
     "title": "Selecting color schemes for mapping ancestral states",
@@ -971,33 +943,5 @@
     "title": "DNA Barcoding of Fern Gametophytes: Past, Present, and Future (XVI Indian Fern Symposium Talk)",
     "section": "",
     "text": "Resources\n\nSlides\nPaper"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Index",
-    "section": "",
-    "text": "初めまして、千葉大学 大学院国際学術研究院・国際教養学部の准教授のニッタ ジョエルです。私はシダ植物の進化と生態学を研究しています。\nシダ植物は非常にユニークなライフサイクルを持つ、とても面白い研究対象です。普段目にしている植物は「胞子体」（二倍体）ですが、もう一つ、極めて小さな（通常は１センチ以下）「配偶体」（一倍体）というライフステージもあり、両方とも独立に生息しています。この特徴は他の陸上植物と根本的に異なり、シダ植物の進化にとって非常に大きな意味を持っています。私は特にシダ植物のライフサイクルがその群集形成のプロセスや生態学などに与える影響について研究しています。\nそして、再現性可能な解析やコード、特にに興味があります。この話については、ブログを見てみてください。\n\n\n\n\nハーバード大学 | 進化生物学研究科博士課程　修了 | 2016年\n東京大学 | 生物科学専攻修士課程　修了 | 2010年\nカリフォルニア大学バークレー校 | 総合生物学・日本語専攻　卒業 | 2007年\n\n\n\n\n\n千葉大学 大学院国際学術研究院 国際教養学部 | 准教授 | 2023年4月 - 現在\n東京大学大学院理学系研究科岩崎研究室 | 特任助教 | 2020年4月 - 2023年3月\nスミソニアン国立自然史博物館 | 特別研究員 | 2019年1月 - 2020年3月\n国立科学博物館植物研究部 | 外国人特別研究員 | 2016年11月 - 2018年12月"
-  },
-  {
-    "objectID": "index.html#自己紹介",
-    "href": "index.html#自己紹介",
-    "title": "Index",
-    "section": "",
-    "text": "初めまして、千葉大学 大学院国際学術研究院・国際教養学部の准教授のニッタ ジョエルです。私はシダ植物の進化と生態学を研究しています。\nシダ植物は非常にユニークなライフサイクルを持つ、とても面白い研究対象です。普段目にしている植物は「胞子体」（二倍体）ですが、もう一つ、極めて小さな（通常は１センチ以下）「配偶体」（一倍体）というライフステージもあり、両方とも独立に生息しています。この特徴は他の陸上植物と根本的に異なり、シダ植物の進化にとって非常に大きな意味を持っています。私は特にシダ植物のライフサイクルがその群集形成のプロセスや生態学などに与える影響について研究しています。\nそして、再現性可能な解析やコード、特にに興味があります。この話については、ブログを見てみてください。"
-  },
-  {
-    "objectID": "index.html#教育歴",
-    "href": "index.html#教育歴",
-    "title": "Index",
-    "section": "",
-    "text": "ハーバード大学 | 進化生物学研究科博士課程　修了 | 2016年\n東京大学 | 生物科学専攻修士課程　修了 | 2010年\nカリフォルニア大学バークレー校 | 総合生物学・日本語専攻　卒業 | 2007年"
-  },
-  {
-    "objectID": "index.html#職歴",
-    "href": "index.html#職歴",
-    "title": "Index",
-    "section": "",
-    "text": "千葉大学 大学院国際学術研究院 国際教養学部 | 准教授 | 2023年4月 - 現在\n東京大学大学院理学系研究科岩崎研究室 | 特任助教 | 2020年4月 - 2023年3月\nスミソニアン国立自然史博物館 | 特別研究員 | 2019年1月 - 2020年3月\n国立科学博物館植物研究部 | 外国人特別研究員 | 2016年11月 - 2018年12月"
   }
 ]

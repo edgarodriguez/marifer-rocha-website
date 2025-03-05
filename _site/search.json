@@ -7,6 +7,118 @@
     "text": "Documenting blog posts with renv\n\n\n\n\n\n\nR\n\n\nblogging\n\n\nreproducibility\n\n\n\nOne solution to the ‘ack I can’t re-knit my post’ problem\n\n\n\n\n\nJan 11, 2024\n\n\nJoel Nitta\n\n\n\n\n\n\n\n\n\n\n\n\nGetting started with 17lands data in R\n\n\n\n\n\n\nR\n\n\nMagic the Gathering\n\n\n\nDrafting with data for fun and improved win-rate\n\n\n\n\n\nJan 1, 2024\n\n\nJoel Nitta\n\n\n\n\n\n\n\n\n\n\n\n\nMaking a fern family tree\n\n\n\n\n\n\nR\n\n\nferns\n\n\n\nHow to make a family-level phylogenetic tree of ferns (or anything else)\n\n\n\n\n\nFeb 21, 2023\n\n\nJoel Nitta\n\n\n\n\n\n\n\n\n\n\n\n\ncanaper is on CRAN\n\n\n\n\n\n\nR\n\n\nSpatial phylogenetics\n\n\n\nAnnouncing the canaper R package!\n\n\n\n\n\nOct 7, 2022\n\n\nJoel Nitta\n\n\n\n\n\n\n\n\n\n\n\n\nEnable giscus in Distill\n\n\n\n\n\n\nblogging\n\n\ndistill\n\n\n\nHow to use the giscus commenting system on a Distill blog\n\n\n\n\n\nNov 24, 2021\n\n\nJoel Nitta\n\n\n\n\n\n\n\n\n\n\n\n\nManaging bioinformatics pipelines with R\n\n\n\n\n\n\nworkflow\n\n\nreproducibility\n\n\n\nHow to combine Conda, Docker, and R to run modular, reproducible bioinformatics pipelines\n\n\n\n\n\nNov 16, 2021\n\n\nJoel Nitta\n\n\n\n\n\n\n\n\n\n\n\n\nSelecting color schemes for mapping ancestral states\n\n\n\n\n\n\nr\n\n\nplotting\n\n\n\nHow to change the phytools default color scheme when visualizing the results of ancestral character state estimation\n\n\n\n\n\nJun 2, 2021\n\n\nJoel Nitta\n\n\n\n\n\n\n\n\n\n\n\n\nBuilding R docker images with secrets\n\n\n\n\n\n\ndocker\n\n\n\nKeep it secret. Keep it safe.\n\n\n\n\n\nFeb 16, 2019\n\n\nJoel Nitta\n\n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Google Scholar"
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications",
+    "section": "2024",
+    "text": "2024\nNitta, J. H. and W. Iwasaki (2024). “dwctaxon, an R package for editing and validating taxonomic data in Darwin Core format”. In: Journal of Open Source Software 9.93, p. 6215. DOI: 10.21105/joss.06215  Code  PDF"
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Publications",
+    "section": "2023",
+    "text": "2023\nChen, C., S. Lindsay, J. H. Nitta, G. Rouhan, M. Sundue, L. R. Perrie, Y. Huang, W. Chiou, and K. Chung (2023). “Systematics and biogeography of the Old World fern genus Antrophyum”. In: Cladistics, p. cla.12538. DOI: 10.1111/cla.12538  Code  PDF\nNitta, J. H. (2023). “Machine learning methods reveal processes affecting abundance at multiple scales. A commentary on ‘Global and regional drivers of abundance patterns in the hart’s tongue fern complex (Aspleniaceae)’”. In: Annals of Botany 131.5, pp. i-ii. DOI: 10.1093/aob/mcad024  Code  PDF\nNitta, J. H., S. W. Laffan, B. D. Mishler, and W. Iwasaki (2023). “canaper: Categorical analysis of neo‐ and paleo‐endemism in R”. In: Ecography, p. e06638. DOI: 10.1111/ecog.06638 Preprint  Code  PDF\nNitta, J. H. (2023). “Ferns as a model system for evolutionary biology”. In: The Journal of Phytogeography and Taxonomy 71.2, pp. 115-126. DOI: 10.18942/chiribunrui.0712-03  Code  PDF\nSong, M. J., C. J. Rothfels, E. Schuettpelz, J. H. Nitta, L. Huiet, F. Li, and K. M. Wefferling (2023). “Resolving deep relationships and revealing ancient whole-genome duplications in Pteridaceae using transcriptomic data”. In: American Fern Journal 113.3. DOI: 10.1640/0002-8444-113.3.191  PDF"
+  },
+  {
+    "objectID": "publications.html#section-2",
+    "href": "publications.html#section-2",
+    "title": "Publications",
+    "section": "2022",
+    "text": "2022\nNitta, J. H., E. Schuettpelz, S. Ramírez-Barahona, and W. Iwasaki (2022). “An open and continuously updated fern tree of life”. In: Frontiers in Plant Science 13, p. 909768. DOI: 10.3389/fpls.2022.909768 Preprint  Code  Data  PDF\nNitta, J. H., B. D. Mishler, W. Iwasaki, and A. Ebihara (2022). “Spatial phylogenetics of Japanese ferns: Patterns, processes, and implications for conservation”. In: American Journal of Botany 109.5, pp. 727-745. DOI: 10.1002/ajb2.1848 Preprint  Code  Data  PDF\nNitta, J. H. and S. M. Chambers (2022). “Identifying cryptic fern gametophytes using DNA barcoding: A review”. In: Applications in Plant Sciences 10, p. e11465. DOI: 10.1002/aps3.11465 Preprint  Code  PDF"
+  },
+  {
+    "objectID": "publications.html#section-3",
+    "href": "publications.html#section-3",
+    "title": "Publications",
+    "section": "2021",
+    "text": "2021\nNitta, J. H., J. E. Watkins Jr., N. M. Holbrook, T. W. Wang, and C. C. Davis (2021). “Ecophysiological differentiation between life stages in filmy ferns (Hymenophyllaceae)”. In: Journal of Plant Research 134.5, pp. 971-988. DOI: 10.1007/s10265-021-01318-z Preprint  Code  Data  PDF"
+  },
+  {
+    "objectID": "publications.html#section-4",
+    "href": "publications.html#section-4",
+    "title": "Publications",
+    "section": "2020",
+    "text": "2020\nNitta, J. H., A. Ebihara, and A. R. Smith (2020). “A taxonomic and molecular survey of the pteridophytes of the Nectandra Cloud Forest Reserve, Costa Rica”. In: PLoS ONE 15.11, p. e0241231. DOI: 10.1371/journal.pone.0241231  Code  Data  PDF\nNitta, J. H., J. E. Watkins Jr., and C. C. Davis (2020). “Life in the canopy: Community trait assessments reveal substantial functional diversity among fern epiphytes”. In: New Phytologist 227.6, pp. 1885-1899. DOI: 10.1111/nph.16607  Code  Data  PDF"
+  },
+  {
+    "objectID": "publications.html#section-5",
+    "href": "publications.html#section-5",
+    "title": "Publications",
+    "section": "2019",
+    "text": "2019\nEbihara, A. and J. H. Nitta (2019). “An update and reassessment of fern and lycophyte diversity data in the Japanese Archipelago”. In: Journal of Plant Research 132.6, pp. 723-738. DOI: 10.1007/s10265-019-01137-3  Code  Data  PDF\nEbihara, A., J. H. Nitta, Y. Matsumoto, Y. Fukazawa, M. Kurihara, H. Yokote, K. Sakuma, O. Azakami, Y. Hirayama, and R. Imaichi (2019). “Growth dynamics of independent gametophytes of Pleurosoriopsis makinoi (Polypodiaceae)”. In: Bulletin of the National Museum of Nature and Science, Series B (Botany) 45.2, pp. 77-86.   Code  PDF\nNitta, J. H. and A. Ebihara (2019). “Virtual issue: Ecology and evolution of pteridophytes in the era of molecular genetics”. In: Journal of Plant Research 132.6, pp. 719-721. DOI: 10.1007/s10265-019-01139-1  PDF"
+  },
+  {
+    "objectID": "publications.html#section-6",
+    "href": "publications.html#section-6",
+    "title": "Publications",
+    "section": "2018",
+    "text": "2018\nGilbert, K. J., J. H. Nitta, G. Talavera, and N. E. Pierce (2018). “Keeping an eye on coloration: Ecological correlates of the evolution of pitcher traits in the genus Nepenthes (Caryophyllales)”. In: Biological Journal of the Linnean Society 123.2, pp. 321-337. DOI: 10.1093/biolinnean/blx142  PDF\nNitta, J. H., S. Amer, and C. C. Davis (2018). “Microsorum × tohieaense (Polypodiaceae), a new hybrid fern from French Polynesia, with implications for the taxonomy of Microsorum”. In: Systematic Botany 43.2, pp. 397-413. DOI: 10.1600/036364418X697166  Data  PDF"
+  },
+  {
+    "objectID": "publications.html#section-7",
+    "href": "publications.html#section-7",
+    "title": "Publications",
+    "section": "2017",
+    "text": "2017\nNitta, J. H., J. Meyer, R. Taputuarai, and C. C. Davis (2017). “Life cycle matters: DNA barcoding reveals contrasting community structure between fern sporophytes and gametophytes”. In: Ecological Monographs 87.2, pp. 278-296. DOI: 10.1002/ecm.1246  PDF\nPinson, J. B., S. M. Chambers, J. H. Nitta, L. Kuo, and E. B. Sessa (2017). “The separation of generations: Biology and biogeography of long-lived sporophyteless fern gametophytes”. In: International Journal of Plant Sciences 178.1, pp. 1-18. DOI: 10.1086/688773  PDF\nZhou, X., L. Zhang, C. Chen, C. Li, Y. Huang, D. Chen, N. T. Thi, D. Cicuzza, R. Knapp, T. T. Tam, J. H. Nitta, X. Gao, and L. Zhang (2017). “A plastid phylogeny and character evolution of the Old World fern genus Pyrrosia (Polypodiaceae) with the description of a new genus: Hovenkampia (Polypodiaceae)”. In: Molecular Phylogenetics and Evolution 114, pp. 271-294. DOI: 10.1016/j.ympev.2017.06.020  PDF"
+  },
+  {
+    "objectID": "publications.html#section-8",
+    "href": "publications.html#section-8",
+    "title": "Publications",
+    "section": "2016",
+    "text": "2016\nPouteau, R., J. Meyer, P. Blanchard, J. H. Nitta, M. Terorotua, and R. Taputuarai (2016). “Fern species richness and abundance are indicators of climate change on high-elevation islands: evidence from an elevational gradient on Tahiti (French Polynesia)”. In: Climatic Change 138, pp. 143-156. DOI: 10.1007/s10584-016-1734-x  PDF"
+  },
+  {
+    "objectID": "publications.html#section-9",
+    "href": "publications.html#section-9",
+    "title": "Publications",
+    "section": "2015",
+    "text": "2015\nChen, C., J. H. Nitta, M. Fanerii, T. Y. A. Yang, F. Pitisopa, C. W. Li, and W. Chiou (2015). “Antrophyum solomonense (Pteridaceae), a new species from the Solomon Islands, and its systematic position based on phylogenetic analysis”. In: Systematic Botany 40.3, pp. 645-651. DOI: 10.1600/036364415X689357  PDF"
+  },
+  {
+    "objectID": "publications.html#section-10",
+    "href": "publications.html#section-10",
+    "title": "Publications",
+    "section": "2013",
+    "text": "2013\nEbihara, A., A. Yamaoka, N. Mizukami, A. Sakoda, J. H. Nitta, and R. Imaichi (2013). “A survey of the fern gametophyte flora of Japan: Frequent independent occurrences of noncordiform gametophytes”. In: American Journal of Botany 100.4, pp. 735-743. DOI: 10.3732/ajb.1200555  PDF"
+  },
+  {
+    "objectID": "publications.html#section-11",
+    "href": "publications.html#section-11",
+    "title": "Publications",
+    "section": "2011",
+    "text": "2011\nNitta, J. H., A. Ebihara, and M. Ito (2011). “Reticulate evolution in the Crepidomanes minutum species complex (Hymenophyllaceae)”. In: American Journal of Botany 98.11, pp. 1782-1800. DOI: 10.3732/ajb.1000484  PDF\n\n\n\n\n\n\n\n\n\n\n\nNitta, J. H., J. Meyer, and A. R. Smith (2011). “Pteridophytes of Mo’orea, French Polynesia: Additional new records”. In: American Fern Journal 101.1, pp. 36-49. DOI: 10.1640/0002-8444-101.1.36  PDF"
+  },
+  {
+    "objectID": "publications.html#section-12",
+    "href": "publications.html#section-12",
+    "title": "Publications",
+    "section": "2010",
+    "text": "2010\nEbihara, A., J. H. Nitta, and M. Ito (2010). “Molecular species identification with rich floristic sampling: DNA barcoding the pteridophyte flora of Japan”. In: PLoS ONE 5.12, p. e15136. DOI: 10.1371/journal.pone.0015136  PDF\nEbihara, A., J. H. Nitta, and K. Iwatsuki (2010). “The Hymenophyllaceae of the Pacific area. 2. Hymenophyllum (excluding subgen. Hymenophyllum)”. In: Bulletin of the National Museum of Nature and Science, Series B (Botany) 36.2, pp. 43-59.   PDF"
+  },
+  {
+    "objectID": "publications.html#section-13",
+    "href": "publications.html#section-13",
+    "title": "Publications",
+    "section": "2009",
+    "text": "2009\nEbihara, A., J. H. Nitta, D. Lorence, and J. Dubuisson (2009). “New records of Polyphlebium borbonicum, an African filmy fern, in the New World and Polynesia”. In: American Fern Journal 99.3, pp. 200-206. DOI: 10.1640/0002-8444-99.3.200  PDF\nNitta, J. H. and M. J. Epps (2009). “Hemi-epiphytism in Vandenboschia collariata (Hymenophyllaceae)”. In: Brittonia 61.4, pp. 392-397. DOI: 10.1007/s12228-009-9097-5  PDF"
+  },
+  {
+    "objectID": "publications.html#section-14",
+    "href": "publications.html#section-14",
+    "title": "Publications",
+    "section": "2008",
+    "text": "2008\nNitta, J. H. (2008). “Exploring the utility of three plastid loci for biocoding the filmy ferns (Hymenophyllaceae) of Moorea”. In: Taxon 57.3, pp. 725-736. DOI: 10.1002/tax.573006  PDF\nNitta, J. H. and P. O’grady (2008). “Mitochondrial phylogeny of the endemic Hawaiian craneflies (Diptera, Limoniidae, Dicranomyia): Implications for biogeography and species formation”. In: Molecular Phylogenetics and Evolution 46.3, pp. 1182-1190. DOI: 10.1016/j.ympev.2007.12.021  PDF"
+  },
+  {
     "objectID": "talks/2020-07-27_botany.ja.html",
     "href": "talks/2020-07-27_botany.ja.html",
     "title": "Exploring Dimensions of Biodiversity in Japanese Ferns (Botany 2020 口頭発表)",
@@ -982,29 +1094,57 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Joel Nitta",
+    "title": "Joel Nitta (THIS IS AN EXAMPLE)",
     "section": "",
     "text": "I am an Associate Professor in the Graduate School of Global and Transdisciplinary Studies at Chiba University, Japan. I study ferns, an ancient and diverse lineage of vascular plants.\nFerns have a unique lifecycle combining two free-living stages (gametophyte and sporophyte) that differ from each other dramatically in appearance and physiology. This sets ferns apart from nearly all other land plants, and has important implications for their ecology and evolution. I am particularly interested in how different stages of the fern lifecycle contribute to community assembly processes, as well as fern ecology, evolution, and systematics.\nI am also an enthusiastic adherent of reproducible analysis and coding, especially with ! Please see my blog for more stories about this topic.\n\n\n\n\nHarvard University | PhD in Organismic and Evolutionary Biology | 2016\nThe University of Tokyo | MS in Biological Sciences | 2010\nThe University of California, Berkeley | BA in Integrative Biology and Japanese Language | 2007\n\n\n\n\n\nGraduate School of Global and Transdisciplinary Studies, Chiba University | Associate Professor | April 2023 - Present\nIwasaki Lab, The University of Tokyo | Project Research Associate | April 2020 - March 2023\nNational Museum of Natural History, Smithsonian Institution | Postdoctoral Fellow | January 2019 - March 2020\nNational Museum of Nature and Science, Japan | Postdoctoral Fellow | November 2016 - December 2018"
   },
   {
     "objectID": "index.html#bio",
     "href": "index.html#bio",
-    "title": "Joel Nitta",
+    "title": "Joel Nitta (THIS IS AN EXAMPLE)",
     "section": "",
     "text": "I am an Associate Professor in the Graduate School of Global and Transdisciplinary Studies at Chiba University, Japan. I study ferns, an ancient and diverse lineage of vascular plants.\nFerns have a unique lifecycle combining two free-living stages (gametophyte and sporophyte) that differ from each other dramatically in appearance and physiology. This sets ferns apart from nearly all other land plants, and has important implications for their ecology and evolution. I am particularly interested in how different stages of the fern lifecycle contribute to community assembly processes, as well as fern ecology, evolution, and systematics.\nI am also an enthusiastic adherent of reproducible analysis and coding, especially with ! Please see my blog for more stories about this topic."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "Joel Nitta",
+    "title": "Joel Nitta (THIS IS AN EXAMPLE)",
     "section": "",
     "text": "Harvard University | PhD in Organismic and Evolutionary Biology | 2016\nThe University of Tokyo | MS in Biological Sciences | 2010\nThe University of California, Berkeley | BA in Integrative Biology and Japanese Language | 2007"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
-    "title": "Joel Nitta",
+    "title": "Joel Nitta (THIS IS AN EXAMPLE)",
     "section": "",
     "text": "Graduate School of Global and Transdisciplinary Studies, Chiba University | Associate Professor | April 2023 - Present\nIwasaki Lab, The University of Tokyo | Project Research Associate | April 2020 - March 2023\nNational Museum of Natural History, Smithsonian Institution | Postdoctoral Fellow | January 2019 - March 2020\nNational Museum of Nature and Science, Japan | Postdoctoral Fellow | November 2016 - December 2018"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "R package for categorial analysis of neo-and paleo-endemism.\n Code  Website"
+  },
+  {
+    "objectID": "software.html#canaper",
+    "href": "software.html#canaper",
+    "title": "Software",
+    "section": "",
+    "text": "R package for categorial analysis of neo-and paleo-endemism.\n Code  Website"
+  },
+  {
+    "objectID": "software.html#taxastand",
+    "href": "software.html#taxastand",
+    "title": "Software",
+    "section": "taxastand ",
+    "text": "taxastand \nR package for taxonomic name resolution.\n Code  Website"
+  },
+  {
+    "objectID": "software.html#dwctaxon",
+    "href": "software.html#dwctaxon",
+    "title": "Software",
+    "section": "dwctaxon ",
+    "text": "dwctaxon \nR package for handling taxonomic data in Darwin Core format.\n Code  Website"
   }
 ]
