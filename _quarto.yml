@@ -36,17 +36,12 @@ format:
 
 babelquarto:
   languagecodes:
-  - name: es
-    text: "Version in es"
   - name: ja
-    text: "日本語"
+    text: "Japanese (testing)"
   - name: en
     text: "English"
   mainlanguage: 'en'
-  languages: ['ja', 'es']
-title-es: title in es
-description-es: description in es
-author-es: author in es
+  languages: ['ja']
 title-ja: ニッタ ジョエル
 description-ja: ニッタ ジョエルのウエブサイト
 author-ja: ニッタ ジョエル
